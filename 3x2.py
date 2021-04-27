@@ -1,11 +1,3 @@
-# API Key
-#	uAliGOLMbJAzNnUqJdKovrjEI
-# API Secret Key
-#	4ISolaozxIYV0u7r3fB8YiM0vIyMpfngNcpvSqXztRHAqlXSIN
-# Bearer Token
-#	AAAAAAAAAAAAAAAAAAAAAFDnOwEAAAAAuVpF5lkNhm9twDEJDN6fI2t2q8o%3Dsnp2jKHOcnvxyModNwCiz78baDnufScYjfpQkbWkNBb1seoTmK
-
-
 import os
 import nba_scraper.nba_scraper as ns
 import csv
